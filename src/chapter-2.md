@@ -1,5 +1,4 @@
 
-
 AI technology has been gaining momentum in various industries, including book writing and publishing. In this chapter, we will explore the basics of AI technology and its capabilities for book writing and publishing.
 
 Explanation of AI Technology and Its Capabilities for Book Writing and Publishing

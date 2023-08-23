@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of AI that play a crucial role in the development of the AI-powered book. Specifically, we will delve into the domains of Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL).
 
 Natural Language Processing (NLP)

@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has revolutionized many industries, and book writing and publishing are no exception. With the help of AI, authors and publishers can ensure quality and consistency in their work and streamline the production process.
 
 Use of AI for ensuring quality and consistency in book writing and publishing processes
